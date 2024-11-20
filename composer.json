@@ -1,4 +1,20 @@
 {
+  "name": "adnen/php-CRUD-with-CLI",
+  "description": "This is a simple PHP CLI application that performs basic CRUD (Create, Read, Update, Delete) operations on a user table in a MySQL database using PDO (PHP Data Objects). The script interacts with the database through a Command-Line Interface (CLI) and outputs results as JSON in the terminal.",
+  "version": "1.0.0",
+  "type": "project",
+  "keywords": [
+    "php",
+    "CLI",
+    "CRUD"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "adnen rebai",
+      "email": "adnen.rebai@gmail.com"
+    }
+  ],
   "require": {
     "vlucas/phpdotenv": "^5.6"
   },
